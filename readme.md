@@ -1,10 +1,6 @@
 CplusplusTest Plugin for CryEngine SDK
 =====================================
-TODO: Describe where you tested it.
-
-TODO: Describe the purpose of your plugin
-
-TODO: Describe where the latest version of your plugin can be found.
+A set of test flow nodes for Cryengine using C++
 
 Installation / Integration
 ==========================
